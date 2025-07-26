@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://nana-v1.github.io/minimal-blog-card/">
       Demo
     </a>
     <span> | </span>
@@ -83,5 +83,5 @@ This was my submission to a [DevChallenges](https://devchallenges.io/challenges-
 
 ## Author
 
-- Website [MinimalBlogCard](#)
+- Website [MinimalBlogCard](https://nana-v1.github.io/minimal-blog-card/)
 - GitHub [@nana-v1](https://github.com/nana-v1)
